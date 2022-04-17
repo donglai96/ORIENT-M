@@ -1,0 +1,1 @@
+from .load import input_var

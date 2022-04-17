@@ -1,0 +1,7 @@
+numpy
+tensorflow>=2.0
+pandas
+matplotlib
+scipy
+mechanize
+pyspedas

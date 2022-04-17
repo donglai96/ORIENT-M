@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: ORIENTM
+Version: 1.0
+Summary: Electron flux model
+Home-page: https://github.com/donglai96/ORIENTM
+Author: Donglai Ma
+Author-email: dma96@atmos.ucla.edu
+License: MIT
+Description: # ORIENT-M
+        The Outer RadIation belt Electron Neural net model for Medium Energy electrons
+        
+Keywords: radiation belt modeling
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown

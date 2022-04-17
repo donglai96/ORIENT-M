@@ -1,0 +1,5 @@
+{"version":"DM",
+ "startmin":-25920,
+ "endmin":0,
+ "lagstep":120,
+ "input":["al", "dst", "pressure", "flow_speed"]}

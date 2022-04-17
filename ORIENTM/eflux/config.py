@@ -1,0 +1,1 @@
+CONFIG ={'model_dir':'RB_model/'}
