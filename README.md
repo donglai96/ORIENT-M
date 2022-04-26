@@ -1,11 +1,16 @@
 # ORIENT-M
 The Outer RadIation belt Electron Neural net model for Medium Energy electrons
 The paper is submitted to space weather
+
 The arxiv version:https://arxiv.org/abs/2109.08647
+
+
+This code download omni data directly and calculate our electron radiation belt flux model output.
+
 ## Install
 
 Notice for m1 mac:
-since tensorflow support is not very well for now, this code won't work on m1 mac right now.
+since tensorflow support is not very well for now, this installation won't work on m1 mac right now.
 
 
 Download the repo, and 
