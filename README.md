@@ -5,12 +5,12 @@ The paper is submitted to space weather
 The arxiv version:https://arxiv.org/abs/2109.08647
 
 
-This code download omni data directly and calculate our electron radiation belt flux model output.
+This code download omni data (or AL from cuboulder) directly and calculate our electron radiation belt flux model output.
 
 ## Install
 
 Notice for m1 mac:
-since tensorflow support is not very well for now, this installation won't work on m1 mac right now.
+since tensorflow support is not very well for now, this installation can not work on m1 mac right now.
 
 
 Download the repo, and 
@@ -46,5 +46,7 @@ final_frame, X_input_total = eflux_1.get_flux(dst_source='omni',
                                              selected_MLT_datetime = input_time)
 ```
 Example_storm shows a GEM event storm in June,2013
-Example_asym shows an example of MLT dependence
+
+Example_asym shows an example of MLT dependence on channel 54 keV.
+
 Example_CuBoulder shows how to use AL index from CU Boulder instead of missing AL index in 2018
