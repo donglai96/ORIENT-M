@@ -17,6 +17,10 @@ Download the repo, and
 ```
 python setup.py develop
 ```
+I suggest use conda and python version = 3.8.
+
+The tensorflow is keep updating, but the tensorflow >2.0 should work.
+
 install jupyter notebook to run the example
 ```
 pip install jupyter notebook
@@ -50,3 +54,7 @@ Example_storm shows a GEM event storm in June,2013
 Example_asym shows an example of MLT dependence on channel 54 keV.
 
 Example_CuBoulder shows how to use AL index from CU Boulder instead of missing AL index in 2018
+
+## Extension
+This code is very easily to add more input parameters. A more mature version using different input parameters is deployed on
+https://sol.spacenvironment.net/orbis_ops/
