@@ -7,6 +7,10 @@ The arxiv version:https://arxiv.org/abs/2109.08647
 
 This code download omni data (or AL from cuboulder) directly and calculate our electron radiation belt flux model output.
 
+Update: This paper is published at https://doi.org/10.1029/2022SW003079. A together paper is https://doi.org/10.1029/2021SW002808.
+
+Both papers are top 10 space weather cited papers in 2022 and 2023!
+
 ## Install
 
 Notice for m1 mac:
